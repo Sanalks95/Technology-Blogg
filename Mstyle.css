@@ -1,0 +1,16 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  div {
+      
+      padding-top: 50px;
+      padding-right: 30px;
+      padding-bottom: 50px;
+      padding-left: 80px;
+      }
+      p{
+          font-style:italic;
+          font-size: large;
+      }
